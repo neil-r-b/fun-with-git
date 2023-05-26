@@ -16,3 +16,5 @@ _This is different than the previous work_
 Isn't github powerful???
 
 # Now we're going to do rebase!
+
+# another commit handled via merge
