@@ -14,3 +14,5 @@ Just a demo of how to use git with a flow and other fun things!
 _This is different than the previous work_
 
 Isn't github powerful???
+
+# Now we're going to do rebase!
