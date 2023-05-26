@@ -18,3 +18,5 @@ Isn't github powerful???
 # Now we're going to do rebase!
 
 # another commit handled via merge
+
+# rebasing to fix things
